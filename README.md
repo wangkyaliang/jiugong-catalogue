@@ -10,4 +10,4 @@
 
 - 百度网盘链接：https://pan.baidu.com/s/1SzRjzjbdnrTlJi3CpNKncA （密码：6te2）
 
-- GittHub链接：https://github.com/wangkyaliang/jiugong-catalogue
+- GitHub链接：https://github.com/wangkyaliang/jiugong-catalogue （仅含《新定九宮大成南北詞宮譜·總目》的影印版pdf文檔）
