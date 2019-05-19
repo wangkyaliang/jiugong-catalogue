@@ -5,3 +5,9 @@
 本項目由@嘉諒、@昭、@言肇 三人合作完成，將《新定九宮大成南北詞宮譜·總目》數字化爲excell文檔，以方便各位曲學研究者與愛好者查詢。
 
 本項目成果爲一個excel文檔“九宮大成總目_20180917.xls”，並附加《新定九宮大成南北詞宮譜》影印版pdf文檔（來自CADAL）。歡迎各位分享，使用請註明本項目及錄入者，勿作商業用途。
+
+### 下载方式
+
+- 百度网盘链接：https://pan.baidu.com/s/1SzRjzjbdnrTlJi3CpNKncA （密码：6te2）
+
+- GittHub链接：https://github.com/wangkyaliang/jiugong-catalogue
